@@ -24,7 +24,9 @@ venv\Scripts\activate
 pip install matplotlib numpy
 python arm.py
 ```
+## Demo
 
+![IK Solver Demo](demo.gif)
 ---
 
 ## Planned
